@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 El informe se guarda en tu Escritorio como `diagnostico_pc_profundo_<fecha>.txt`.
 
+Guía paso a paso para usuarios no técnicos (Windows y Linux): `docs/guia_uso_diagnostico_pc_profundo.md`.
+
 ## Estructura principal
 - `main.py`: orquesta el flujo completo y genera el informe.
 - `src/entorno.py`: detección de OS, privilegios y ruta del Escritorio.
